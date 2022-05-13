@@ -14,6 +14,8 @@
         }
     },
     "require": {
-        "ext-redis": "*"
+        "ext-redis": "*",
+        "lcobucci/jwt": "*",
+        "guzzlehttp/guzzle": "*"
     }
 }
