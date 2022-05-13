@@ -1,0 +1,18 @@
+{
+    "name": "gbaski/core",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Aliu Adepoju",
+            "email": "aliu.adepoju@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gbaski\\Core\\": "./"
+        }
+    },
+    "require": {
+        "ext-redis": "*"
+    }
+}
