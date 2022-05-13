@@ -1,6 +1,7 @@
 {
     "name": "gbaski/core",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Aliu Adepoju",
